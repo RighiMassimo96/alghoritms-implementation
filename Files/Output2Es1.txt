@@ -1,0 +1,1003 @@
+1  Inserimento  Riuscito
+3  Inserimento  Riuscito
+3  Inserimento  Riuscito
+3  Inserimento  Riuscito
+4  Inserimento  Riuscito
+5  Inserimento  Riuscito
+5  Inserimento  Riuscito
+5  Inserimento  Riuscito
+5  Inserimento  Riuscito
+7  Inserimento  Riuscito
+7  Inserimento  Riuscito
+5  Inserimento  Riuscito
+6  Inserimento  Riuscito
+9  Inserimento  Riuscito
+6  Inserimento  Riuscito
+7  Inserimento  Riuscito
+7  Inserimento  Riuscito
+9  Inserimento  Riuscito
+7  Inserimento  Riuscito
+7  Inserimento  Riuscito
+9  Inserimento  Riuscito
+8  Inserimento  Riuscito
+9  Inserimento  Riuscito
+7  Inserimento  Riuscito
+8  Inserimento  Riuscito
+9  Inserimento  Riuscito
+11  Inserimento  Riuscito
+7  Inserimento  Riuscito
+10  Inserimento  Riuscito
+11  Inserimento  Riuscito
+11  Inserimento  Riuscito
+7  Inserimento  Riuscito
+8  Inserimento  Riuscito
+10  Inserimento  Riuscito
+8  Inserimento  Riuscito
+12  Inserimento  Riuscito
+12  Inserimento  Riuscito
+13  Inserimento  Riuscito
+9  Inserimento  Riuscito
+11  Inserimento  Riuscito
+10  Inserimento  Riuscito
+11  Inserimento  Riuscito
+9  Inserimento  Riuscito
+5  Inserimento  Riuscito
+13  Inserimento  Riuscito
+11  Inserimento  Riuscito
+9  Inserimento  Riuscito
+14  Inserimento  Riuscito
+12  Inserimento  Riuscito
+12  Inserimento  Riuscito
+9  Inserimento  Riuscito
+11  Inserimento  Riuscito
+13  Inserimento  Riuscito
+10  Inserimento  Riuscito
+13  Inserimento  Riuscito
+6  Inserimento  Riuscito
+12  Inserimento  Riuscito
+9  Inserimento  Riuscito
+7  Inserimento  Riuscito
+14  Inserimento  Riuscito
+10  Inserimento  Riuscito
+9  Inserimento  Riuscito
+10  Inserimento  Riuscito
+10  Inserimento  Riuscito
+13  Inserimento  Riuscito
+14  Inserimento  Riuscito
+13  Inserimento  Riuscito
+9  Inserimento  Riuscito
+14  Inserimento  Riuscito
+11  Inserimento  Riuscito
+15  Inserimento  Riuscito
+9  Inserimento  Riuscito
+15  Inserimento  Riuscito
+11  Inserimento  Riuscito
+8  Inserimento  Riuscito
+5  Inserimento  Riuscito
+11  Inserimento  Riuscito
+15  Inserimento  Riuscito
+15  Inserimento  Riuscito
+11  Inserimento  Riuscito
+11  Inserimento  Riuscito
+16  Inserimento  Riuscito
+12  Inserimento  Riuscito
+16  Inserimento  Riuscito
+10  Inserimento  Riuscito
+16  Inserimento  Riuscito
+8  Inserimento  Riuscito
+17  Inserimento  Riuscito
+17  Inserimento  Riuscito
+9  Inserimento  Riuscito
+10  Inserimento  Riuscito
+10  Inserimento  Riuscito
+14  Inserimento  Riuscito
+18  Inserimento  Riuscito
+12  Inserimento  Riuscito
+15  Inserimento  Riuscito
+11  Inserimento  Riuscito
+11  Inserimento  Riuscito
+14  Inserimento  Riuscito
+16  Inserimento  Riuscito
+16  Inserimento  Riuscito
+18  Inserimento  Riuscito
+15  Inserimento  Riuscito
+11  Inserimento  Riuscito
+19  Inserimento  Riuscito
+17  Inserimento  Riuscito
+12  Inserimento  Riuscito
+20  Inserimento  Riuscito
+12  Inserimento  Riuscito
+7  Inserimento  Riuscito
+19  Inserimento  Riuscito
+18  Inserimento  Riuscito
+17  Inserimento  Riuscito
+13  Inserimento  Riuscito
+8  Inserimento  Riuscito
+12  Inserimento  Riuscito
+15  Inserimento  Riuscito
+17  Inserimento  Riuscito
+17  Inserimento  Riuscito
+19  Inserimento  Riuscito
+15  Inserimento  Riuscito
+12  Inserimento  Riuscito
+20  Inserimento  Riuscito
+7  Inserimento  Riuscito
+20  Inserimento  Riuscito
+19  Inserimento  Riuscito
+18  Inserimento  Riuscito
+14  Inserimento  Riuscito
+8  Inserimento  Riuscito
+8  Inserimento  Riuscito
+11  Inserimento  Riuscito
+12  Inserimento  Riuscito
+13  Inserimento  Riuscito
+9  Inserimento  Riuscito
+9  Inserimento  Riuscito
+11  Inserimento  Riuscito
+9  Inserimento  Riuscito
+13  Inserimento  Riuscito
+13  Inserimento  Riuscito
+14  Inserimento  Riuscito
+10  Inserimento  Riuscito
+12  Inserimento  Riuscito
+11  Inserimento  Riuscito
+12  Inserimento  Riuscito
+10  Inserimento  Riuscito
+6  Inserimento  Riuscito
+14  Inserimento  Riuscito
+12  Inserimento  Riuscito
+10  Inserimento  Riuscito
+15  Inserimento  Riuscito
+13  Inserimento  Riuscito
+13  Inserimento  Riuscito
+10  Inserimento  Riuscito
+13  Inserimento  Riuscito
+14  Inserimento  Riuscito
+10  Inserimento  Riuscito
+14  Inserimento  Riuscito
+7  Inserimento  Riuscito
+13  Inserimento  Riuscito
+11  Inserimento  Riuscito
+8  Inserimento  Riuscito
+15  Inserimento  Riuscito
+11  Inserimento  Riuscito
+10  Inserimento  Riuscito
+11  Inserimento  Riuscito
+11  Inserimento  Riuscito
+14  Inserimento  Riuscito
+15  Inserimento  Riuscito
+14  Inserimento  Riuscito
+6  Ricerca  Trovato 2
+11  Inserimento  Riuscito
+10  Inserimento  Riuscito
+13  Inserimento  Riuscito
+18  Inserimento  Riuscito
+18  Inserimento  Riuscito
+8  Ricerca  Trovato 2
+18  Cancellazione  Riuscita
+14  Inserimento  Riuscito
+11  Ricerca  Trovato 2
+13  Inserimento  Riuscito
+14  Inserimento  Riuscito
+19  Inserimento  Riuscito
+12  Inserimento  Riuscito
+8  Ricerca  Trovato 1
+5  Ricerca  Trovato 1
+6  Cancellazione  Riuscita
+20  Inserimento  Riuscito
+8  Ricerca  Trovato 1
+15  Inserimento  Riuscito
+14  Inserimento  Riuscito
+13  Inserimento  Riuscito
+10  Inserimento  Riuscito
+15  Inserimento  Riuscito
+13  Inserimento  Riuscito
+16  Inserimento  Riuscito
+14  Inserimento  Riuscito
+20  Inserimento  Riuscito
+15  Inserimento  Riuscito
+21  Inserimento  Riuscito
+8  Cancellazione  Riuscita
+16  Inserimento  Riuscito
+13  Inserimento  Riuscito
+17  Inserimento  Riuscito
+7  Ricerca  Trovato 1
+11  Ricerca  Trovato 2
+15  Inserimento  Riuscito
+11  Ricerca  Trovato 2
+10  Ricerca  Trovato 2
+9  Ricerca  Trovato 2
+10  Cancellazione  Riuscita
+13  Inserimento  Riuscito
+16  Inserimento  Riuscito
+8  Ricerca  Trovato 3
+17  Inserimento  Riuscito
+5  Ricerca  Trovato 1
+12  Ricerca  Trovato 1
+18  Inserimento  Riuscito
+17  Inserimento  Riuscito
+14  Ricerca  Trovato 2
+19  Inserimento  Riuscito
+12  Ricerca  Trovato 1
+14  Inserimento  Riuscito
+18  Inserimento  Riuscito
+8  Cancellazione  Riuscita
+6  Ricerca  Trovato 2
+12  Inserimento  Riuscito
+8  Cancellazione  Riuscita
+11  Cancellazione  Riuscita
+9  Ricerca  Trovato 2
+6  Inserimento  Riuscito
+6  Inserimento  Riuscito
+7  Inserimento  Riuscito
+8  Inserimento  Riuscito
+9  Inserimento  Riuscito
+7  Inserimento  Riuscito
+7  Inserimento  Riuscito
+9  Inserimento  Riuscito
+19  Inserimento  Riuscito
+9  Inserimento  Riuscito
+9  Inserimento  Riuscito
+11  Inserimento  Riuscito
+7  Inserimento  Riuscito
+9  Inserimento  Riuscito
+11  Inserimento  Riuscito
+9  Inserimento  Riuscito
+11  Inserimento  Riuscito
+8  Inserimento  Riuscito
+8  Inserimento  Riuscito
+9  Inserimento  Riuscito
+3  Inserimento  Riuscito
+11  Inserimento  Riuscito
+10  Cancellazione  Riuscita
+10  Cancellazione  Riuscita
+6  Cancellazione  Riuscita
+11  Inserimento  Riuscito
+12  Inserimento  Riuscito
+13  Cancellazione  Riuscita
+10  Ricerca  Trovato 2
+17  Inserimento  Riuscito
+16  Inserimento  Riuscito
+11  Inserimento  Riuscito
+18  Inserimento  Riuscito
+13  Inserimento  Riuscito
+15  Inserimento  Riuscito
+20  Inserimento  Riuscito
+14  Inserimento  Riuscito
+12  Inserimento  Riuscito
+9  Ricerca  Non Trovato
+14  Inserimento  Riuscito
+8  Cancellazione  Riuscita
+10  Cancellazione  Riuscita
+13  Cancellazione  Riuscita
+5  Ricerca  Non Trovato
+22  Inserimento  Riuscito
+12  Cancellazione  Riuscita
+23  Inserimento  Riuscito
+9  Inserimento  Riuscito
+9  Cancellazione  Riuscita
+21  Inserimento  Riuscito
+12  Inserimento  Riuscito
+8  Ricerca  Trovato 3
+17  Inserimento  Riuscito
+20  Ricerca  Non Trovato
+8  Cancellazione  Riuscita
+16  Inserimento  Riuscito
+24  Inserimento  Riuscito
+6  Cancellazione  Riuscita
+7  Cancellazione  Riuscita
+19  Inserimento  Riuscito
+10  Cancellazione  Riuscita
+15  Inserimento  Riuscito
+11  Ricerca  Trovato 1
+6  Ricerca  Trovato 1
+20  Inserimento  Riuscito
+15  Ricerca  Trovato 1
+11  Inserimento  Riuscito
+16  Inserimento  Riuscito
+8  Cancellazione  Riuscita
+8  Ricerca  Trovato 2
+5  Ricerca  Trovato 4
+15  Inserimento  Riuscito
+20  Cancellazione  Non Riuscita
+12  Inserimento  Riuscito
+9  Cancellazione  Non Riuscita
+13  Inserimento  Riuscito
+22  Ricerca  Trovato 1
+20  Inserimento  Riuscito
+10  Inserimento  Riuscito
+13  Inserimento  Riuscito
+7  Ricerca  Trovato 2
+20  Cancellazione  Non Riuscita
+12  Inserimento  Riuscito
+9  Ricerca  Trovato 2
+12  Inserimento  Riuscito
+13  Inserimento  Riuscito
+8  Ricerca  Trovato 1
+5  Ricerca  Trovato 2
+19  Cancellazione  Riuscita
+21  Inserimento  Riuscito
+8  Ricerca  Trovato 1
+14  Inserimento  Riuscito
+13  Inserimento  Riuscito
+14  Inserimento  Riuscito
+10  Inserimento  Riuscito
+14  Inserimento  Riuscito
+11  Inserimento  Riuscito
+15  Inserimento  Riuscito
+15  Inserimento  Riuscito
+15  Inserimento  Riuscito
+15  Inserimento  Riuscito
+15  Inserimento  Riuscito
+7  Ricerca  Trovato 1
+11  Ricerca  Trovato 2
+16  Inserimento  Riuscito
+9  Ricerca  Trovato 2
+10  Cancellazione  Riuscita
+15  Inserimento  Riuscito
+8  Ricerca  Trovato 4
+5  Ricerca  Trovato 2
+16  Inserimento  Riuscito
+9  Ricerca  Non Trovato
+11  Ricerca  Trovato 2
+16  Inserimento  Riuscito
+17  Inserimento  Riuscito
+6  Ricerca  Trovato 1
+13  Inserimento  Riuscito
+8  Cancellazione  Riuscita
+12  Cancellazione  Riuscita
+11  Inserimento  Riuscito
+9  Inserimento  Riuscito
+24  Inserimento  Riuscito
+20  Inserimento  Riuscito
+18  Cancellazione  Riuscita
+6  Ricerca  Trovato 1
+13  Inserimento  Riuscito
+8  Inserimento  Riuscito
+14  Inserimento  Riuscito
+17  Inserimento  Riuscito
+14  Inserimento  Riuscito
+7  Ricerca  Trovato 2
+19  Cancellazione  Non Riuscita
+6  Ricerca  Trovato 1
+21  Inserimento  Riuscito
+15  Ricerca  Trovato 1
+12  Inserimento  Riuscito
+17  Inserimento  Riuscito
+8  Cancellazione  Riuscita
+8  Ricerca  Trovato 3
+5  Ricerca  Trovato 4
+3  Inserimento  Riuscito
+5  Inserimento  Riuscito
+5  Inserimento  Riuscito
+4  Inserimento  Riuscito
+16  Inserimento  Riuscito
+7  Inserimento  Riuscito
+10  Cancellazione  Riuscita
+22  Inserimento  Riuscito
+23  Inserimento  Riuscito
+20  Inserimento  Riuscito
+8  Ricerca  Trovato 4
+18  Inserimento  Riuscito
+19  Ricerca  Non Trovato
+16  Inserimento  Riuscito
+24  Inserimento  Riuscito
+13  Inserimento  Riuscito
+7  Cancellazione  Riuscita
+16  Inserimento  Riuscito
+11  Ricerca  Trovato 2
+6  Ricerca  Trovato 1
+21  Inserimento  Riuscito
+15  Ricerca  Trovato 1
+12  Inserimento  Riuscito
+17  Inserimento  Riuscito
+8  Cancellazione  Non Riuscita
+8  Ricerca  Trovato 3
+9  Ricerca  Non Trovato
+11  Ricerca  Trovato 2
+17  Inserimento  Riuscito
+22  Ricerca  Trovato 1
+12  Inserimento  Riuscito
+10  Cancellazione  Non Riuscita
+7  Ricerca  Trovato 3
+3  Inserimento  Riuscito
+11  Inserimento  Riuscito
+2  Ricerca  Trovato 4
+15  Inserimento  Riuscito
+8  Ricerca  Trovato 4
+5  Ricerca  Trovato 2
+16  Inserimento  Riuscito
+9  Ricerca  Non Trovato
+22  Inserimento  Riuscito
+23  Inserimento  Riuscito
+20  Inserimento  Riuscito
+13  Inserimento  Riuscito
+8  Ricerca  Trovato 4
+18  Inserimento  Riuscito
+19  Ricerca  Non Trovato
+6  Ricerca  Trovato 1
+16  Inserimento  Riuscito
+24  Inserimento  Riuscito
+17  Inserimento  Riuscito
+18  Inserimento  Riuscito
+19  Inserimento  Riuscito
+14  Inserimento  Riuscito
+8  Cancellazione  Non Riuscita
+20  Inserimento  Riuscito
+7  Ricerca  Trovato 1
+16  Inserimento  Riuscito
+11  Ricerca  Trovato 2
+6  Ricerca  Trovato 1
+21  Inserimento  Riuscito
+15  Ricerca  Trovato 1
+12  Inserimento  Riuscito
+17  Inserimento  Riuscito
+8  Cancellazione  Non Riuscita
+8  Ricerca  Trovato 3
+5  Ricerca  Trovato 4
+15  Inserimento  Riuscito
+20  Cancellazione  Riuscita
+13  Inserimento  Riuscito
+9  Ricerca  Non Trovato
+24  Inserimento  Riuscito
+18  Inserimento  Riuscito
+19  Inserimento  Riuscito
+20  Inserimento  Riuscito
+14  Inserimento  Riuscito
+8  Cancellazione  Non Riuscita
+20  Inserimento  Riuscito
+16  Inserimento  Riuscito
+11  Ricerca  Trovato 3
+6  Ricerca  Trovato 1
+21  Inserimento  Riuscito
+15  Ricerca  Trovato 1
+12  Inserimento  Riuscito
+17  Inserimento  Riuscito
+8  Cancellazione  Non Riuscita
+8  Ricerca  Trovato 3
+5  Ricerca  Trovato 4
+8  Inserimento  Riuscito
+15  Inserimento  Riuscito
+18  Cancellazione  Non Riuscita
+13  Inserimento  Riuscito
+9  Ricerca  Non Trovato
+24  Inserimento  Riuscito
+18  Inserimento  Riuscito
+19  Inserimento  Riuscito
+20  Inserimento  Riuscito
+14  Inserimento  Riuscito
+8  Cancellazione  Non Riuscita
+20  Inserimento  Riuscito
+16  Inserimento  Riuscito
+11  Ricerca  Trovato 4
+6  Ricerca  Trovato 1
+21  Inserimento  Riuscito
+15  Ricerca  Trovato 1
+12  Inserimento  Riuscito
+17  Inserimento  Riuscito
+8  Cancellazione  Non Riuscita
+8  Ricerca  Trovato 3
+5  Ricerca  Trovato 4
+15  Inserimento  Riuscito
+18  Cancellazione  Non Riuscita
+13  Inserimento  Riuscito
+9  Ricerca  Non Trovato
+16  Ricerca  Trovato 2
+8  Ricerca  Trovato 4
+7  Ricerca  Trovato 4
+3  Inserimento  Riuscito
+11  Inserimento  Riuscito
+2  Ricerca  Trovato 5
+15  Inserimento  Riuscito
+8  Ricerca  Trovato 4
+5  Ricerca  Trovato 2
+16  Inserimento  Riuscito
+9  Ricerca  Non Trovato
+22  Inserimento  Riuscito
+23  Inserimento  Riuscito
+20  Inserimento  Riuscito
+13  Inserimento  Riuscito
+10  Cancellazione  Riuscita
+10  Cancellazione  Non Riuscita
+7  Ricerca  Trovato 1
+16  Inserimento  Riuscito
+11  Ricerca  Trovato 5
+6  Ricerca  Trovato 1
+21  Inserimento  Riuscito
+15  Ricerca  Trovato 1
+12  Inserimento  Riuscito
+17  Inserimento  Riuscito
+8  Cancellazione  Non Riuscita
+8  Ricerca  Trovato 3
+5  Ricerca  Trovato 4
+15  Inserimento  Riuscito
+18  Cancellazione  Non Riuscita
+13  Inserimento  Riuscito
+9  Ricerca  Non Trovato
+24  Inserimento  Riuscito
+18  Inserimento  Riuscito
+19  Inserimento  Riuscito
+20  Inserimento  Riuscito
+14  Inserimento  Riuscito
+8  Cancellazione  Non Riuscita
+20  Inserimento  Riuscito
+16  Inserimento  Riuscito
+11  Ricerca  Trovato 6
+6  Ricerca  Trovato 1
+21  Inserimento  Riuscito
+15  Ricerca  Trovato 1
+12  Inserimento  Riuscito
+17  Inserimento  Riuscito
+8  Cancellazione  Non Riuscita
+8  Ricerca  Trovato 3
+5  Ricerca  Trovato 4
+8  Cancellazione  Non Riuscita
+20  Inserimento  Riuscito
+6  Ricerca  Trovato 1
+21  Inserimento  Riuscito
+15  Ricerca  Trovato 1
+12  Inserimento  Riuscito
+17  Inserimento  Riuscito
+8  Cancellazione  Non Riuscita
+8  Ricerca  Trovato 3
+5  Ricerca  Trovato 4
+15  Inserimento  Riuscito
+18  Cancellazione  Non Riuscita
+13  Inserimento  Riuscito
+9  Ricerca  Non Trovato
+13  Inserimento  Riuscito
+7  Ricerca  Trovato 2
+10  Ricerca  Trovato 2
+16  Inserimento  Riuscito
+9  Ricerca  Trovato 2
+18  Cancellazione  Non Riuscita
+15  Inserimento  Riuscito
+8  Ricerca  Trovato 4
+5  Ricerca  Trovato 2
+16  Inserimento  Riuscito
+9  Ricerca  Non Trovato
+11  Ricerca  Trovato 5
+17  Inserimento  Riuscito
+8  Inserimento  Riuscito
+22  Ricerca  Trovato 1
+7  Ricerca  Trovato 9
+8  Cancellazione  Riuscita
+7  Ricerca  Trovato 8
+21  Inserimento  Riuscito
+7  Ricerca  Trovato 2
+18  Cancellazione  Non Riuscita
+12  Inserimento  Riuscito
+9  Ricerca  Trovato 2
+12  Inserimento  Riuscito
+13  Inserimento  Riuscito
+8  Ricerca  Trovato 1
+5  Ricerca  Trovato 2
+20  Inserimento  Riuscito
+20  Cancellazione  Riuscita
+20  Inserimento  Riuscito
+8  Ricerca  Trovato 1
+14  Inserimento  Riuscito
+12  Inserimento  Riuscito
+10  Ricerca  Trovato 1
+9  Ricerca  Trovato 2
+18  Inserimento  Riuscito
+17  Inserimento  Riuscito
+19  Inserimento  Riuscito
+19  Inserimento  Riuscito
+12  Inserimento  Riuscito
+8  Cancellazione  Non Riuscita
+22  Inserimento  Riuscito
+23  Inserimento  Riuscito
+20  Inserimento  Riuscito
+13  Inserimento  Riuscito
+8  Ricerca  Trovato 4
+18  Inserimento  Riuscito
+18  Ricerca  Non Trovato
+10  Inserimento  Riuscito
+16  Inserimento  Riuscito
+24  Inserimento  Riuscito
+19  Ricerca  Non Trovato
+8  Cancellazione  Non Riuscita
+20  Inserimento  Riuscito
+16  Inserimento  Riuscito
+11  Ricerca  Trovato 7
+6  Ricerca  Trovato 2
+21  Inserimento  Riuscito
+15  Ricerca  Trovato 2
+12  Inserimento  Riuscito
+17  Inserimento  Riuscito
+8  Cancellazione  Non Riuscita
+8  Ricerca  Trovato 4
+5  Ricerca  Trovato 4
+15  Inserimento  Riuscito
+18  Cancellazione  Non Riuscita
+8  Ricerca  Trovato 4
+9  Ricerca  Non Trovato
+11  Ricerca  Trovato 5
+17  Inserimento  Riuscito
+22  Ricerca  Trovato 1
+12  Inserimento  Riuscito
+10  Cancellazione  Non Riuscita
+7  Ricerca  Trovato 4
+3  Inserimento  Riuscito
+11  Inserimento  Riuscito
+2  Ricerca  Trovato 6
+15  Inserimento  Riuscito
+8  Ricerca  Trovato 4
+5  Ricerca  Trovato 2
+16  Inserimento  Riuscito
+9  Ricerca  Non Trovato
+8  Cancellazione  Non Riuscita
+8  Ricerca  Trovato 4
+5  Ricerca  Trovato 4
+15  Inserimento  Riuscito
+18  Cancellazione  Non Riuscita
+13  Inserimento  Riuscito
+9  Ricerca  Non Trovato
+16  Ricerca  Trovato 2
+8  Ricerca  Trovato 7
+7  Ricerca  Trovato 4
+3  Inserimento  Riuscito
+11  Inserimento  Riuscito
+2  Ricerca  Trovato 7
+15  Inserimento  Riuscito
+8  Ricerca  Trovato 4
+5  Ricerca  Trovato 2
+16  Inserimento  Riuscito
+9  Ricerca  Non Trovato
+22  Inserimento  Riuscito
+23  Inserimento  Riuscito
+20  Inserimento  Riuscito
+13  Inserimento  Riuscito
+10  Cancellazione  Riuscita
+10  Cancellazione  Non Riuscita
+7  Ricerca  Trovato 1
+16  Inserimento  Riuscito
+11  Ricerca  Trovato 9
+6  Ricerca  Trovato 2
+21  Inserimento  Riuscito
+15  Ricerca  Trovato 2
+12  Inserimento  Riuscito
+17  Inserimento  Riuscito
+8  Cancellazione  Non Riuscita
+8  Ricerca  Trovato 4
+5  Ricerca  Trovato 4
+15  Inserimento  Riuscito
+18  Cancellazione  Non Riuscita
+13  Inserimento  Riuscito
+9  Ricerca  Non Trovato
+24  Inserimento  Riuscito
+18  Inserimento  Riuscito
+19  Inserimento  Riuscito
+20  Inserimento  Riuscito
+18  Cancellazione  Non Riuscita
+9  Ricerca  Non Trovato
+20  Inserimento  Riuscito
+11  Ricerca  Trovato 10
+6  Ricerca  Trovato 2
+21  Inserimento  Riuscito
+12  Inserimento  Riuscito
+17  Inserimento  Riuscito
+8  Ricerca  Non Trovato
+8  Ricerca  Trovato 4
+5  Ricerca  Trovato 4
+8  Cancellazione  Non Riuscita
+20  Inserimento  Riuscito
+6  Ricerca  Trovato 2
+21  Inserimento  Riuscito
+12  Inserimento  Riuscito
+17  Inserimento  Riuscito
+8  Ricerca  Non Trovato
+8  Ricerca  Trovato 4
+6  Cancellazione  Riuscita
+15  Inserimento  Riuscito
+18  Cancellazione  Non Riuscita
+13  Inserimento  Riuscito
+9  Ricerca  Non Trovato
+13  Inserimento  Riuscito
+7  Ricerca  Trovato 2
+10  Ricerca  Trovato 2
+16  Inserimento  Riuscito
+9  Ricerca  Trovato 2
+18  Cancellazione  Non Riuscita
+15  Inserimento  Riuscito
+8  Ricerca  Trovato 4
+5  Ricerca  Trovato 2
+16  Inserimento  Riuscito
+9  Ricerca  Non Trovato
+11  Ricerca  Trovato 8
+17  Inserimento  Riuscito
+8  Inserimento  Riuscito
+22  Ricerca  Trovato 1
+7  Ricerca  Trovato 12
+8  Cancellazione  Non Riuscita
+11  Inserimento  Riuscito
+8  Ricerca  Trovato 4
+5  Ricerca  Trovato 3
+15  Inserimento  Riuscito
+18  Cancellazione  Non Riuscita
+13  Inserimento  Riuscito
+9  Ricerca  Non Trovato
+13  Inserimento  Riuscito
+7  Ricerca  Trovato 2
+10  Ricerca  Trovato 2
+16  Inserimento  Riuscito
+9  Ricerca  Trovato 2
+18  Cancellazione  Non Riuscita
+15  Inserimento  Riuscito
+8  Ricerca  Trovato 4
+5  Ricerca  Trovato 2
+16  Inserimento  Riuscito
+9  Ricerca  Non Trovato
+11  Ricerca  Trovato 9
+17  Inserimento  Riuscito
+8  Inserimento  Riuscito
+22  Ricerca  Trovato 1
+7  Ricerca  Trovato 12
+8  Cancellazione  Riuscita
+7  Ricerca  Trovato 11
+22  Inserimento  Riuscito
+7  Ricerca  Trovato 2
+18  Cancellazione  Non Riuscita
+12  Inserimento  Riuscito
+9  Ricerca  Trovato 2
+12  Inserimento  Riuscito
+9  Ricerca  Trovato 2
+18  Inserimento  Riuscito
+17  Inserimento  Riuscito
+19  Inserimento  Riuscito
+19  Inserimento  Riuscito
+12  Inserimento  Riuscito
+13  Ricerca  Non Trovato
+15  Inserimento  Riuscito
+8  Ricerca  Non Trovato
+22  Inserimento  Riuscito
+20  Inserimento  Riuscito
+13  Inserimento  Riuscito
+8  Ricerca  Trovato 4
+18  Inserimento  Riuscito
+18  Ricerca  Non Trovato
+24  Inserimento  Riuscito
+8  Cancellazione  Non Riuscita
+20  Inserimento  Riuscito
+6  Ricerca  Trovato 4
+21  Inserimento  Riuscito
+15  Ricerca  Trovato 3
+12  Inserimento  Riuscito
+17  Inserimento  Riuscito
+8  Cancellazione  Non Riuscita
+8  Ricerca  Trovato 5
+5  Ricerca  Trovato 3
+15  Inserimento  Riuscito
+18  Cancellazione  Non Riuscita
+13  Inserimento  Riuscito
+13  Inserimento  Riuscito
+21  Ricerca  Trovato 9
+19  Inserimento  Riuscito
+10  Inserimento  Riuscito
+14  Inserimento  Riuscito
+7  Ricerca  Trovato 2
+18  Cancellazione  Non Riuscita
+12  Inserimento  Riuscito
+9  Ricerca  Trovato 3
+12  Inserimento  Riuscito
+13  Inserimento  Riuscito
+8  Ricerca  Trovato 1
+5  Ricerca  Trovato 2
+18  Cancellazione  Non Riuscita
+20  Inserimento  Riuscito
+8  Ricerca  Trovato 1
+14  Inserimento  Riuscito
+13  Inserimento  Riuscito
+14  Inserimento  Riuscito
+10  Inserimento  Riuscito
+14  Inserimento  Riuscito
+11  Inserimento  Riuscito
+15  Inserimento  Riuscito
+7  Ricerca  Trovato 2
+10  Ricerca  Trovato 2
+16  Inserimento  Riuscito
+9  Ricerca  Trovato 3
+18  Cancellazione  Non Riuscita
+15  Inserimento  Riuscito
+8  Ricerca  Trovato 5
+5  Ricerca  Trovato 2
+16  Inserimento  Riuscito
+9  Ricerca  Non Trovato
+11  Ricerca  Trovato 10
+17  Inserimento  Riuscito
+22  Ricerca  Trovato 1
+12  Inserimento  Riuscito
+10  Cancellazione  Non Riuscita
+11  Inserimento  Riuscito
+9  Inserimento  Riuscito
+25  Inserimento  Riuscito
+20  Inserimento  Riuscito
+19  Cancellazione  Non Riuscita
+6  Cancellazione  Riuscita
+8  Cancellazione  Riuscita
+11  Cancellazione  Riuscita
+12  Cancellazione  Riuscita
+20  Cancellazione  Riuscita
+8  Ricerca  Trovato 11
+9  Cancellazione  Riuscita
+10  Cancellazione  Non Riuscita
+10  Ricerca  Trovato 6
+5  Ricerca  Trovato 3
+22  Ricerca  Trovato 2
+18  Ricerca  Non Trovato
+18  Ricerca  Non Trovato
+5  Ricerca  Trovato 3
+7  Ricerca  Trovato 1
+10  Ricerca  Trovato 1
+11  Ricerca  Trovato 13
+18  Ricerca  Non Trovato
+15  Ricerca  Trovato 3
+7  Ricerca  Trovato 12
+13  Ricerca  Trovato 14
+8  Cancellazione  Non Riuscita
+6  Cancellazione  Riuscita
+12  Cancellazione  Riuscita
+18  Cancellazione  Non Riuscita
+5  Ricerca  Trovato 2
+4  Ricerca  Trovato 4
+7  Inserimento  Riuscito
+5  Ricerca  Trovato 2
+18  Cancellazione  Non Riuscita
+5  Ricerca  Trovato 2
+6  Cancellazione  Riuscita
+7  Ricerca  Trovato 1
+6  Cancellazione  Riuscita
+9  Inserimento  Riuscito
+11  Inserimento  Riuscito
+9  Inserimento  Riuscito
+8  Ricerca  Trovato 5
+18  Inserimento  Riuscito
+18  Ricerca  Non Trovato
+10  Inserimento  Riuscito
+16  Inserimento  Riuscito
+24  Inserimento  Riuscito
+20  Ricerca  Non Trovato
+8  Cancellazione  Non Riuscita
+20  Inserimento  Riuscito
+16  Inserimento  Riuscito
+11  Ricerca  Trovato 12
+6  Ricerca  Trovato 4
+21  Inserimento  Riuscito
+15  Ricerca  Trovato 3
+12  Inserimento  Riuscito
+17  Inserimento  Riuscito
+8  Cancellazione  Non Riuscita
+8  Ricerca  Trovato 6
+5  Ricerca  Trovato 1
+3  Inserimento  Riuscito
+5  Inserimento  Riuscito
+5  Inserimento  Riuscito
+4  Inserimento  Riuscito
+16  Ricerca  Trovato 1
+4  Ricerca  Trovato 2
+4  Ricerca  Trovato 2
+4  Ricerca  Trovato 2
+4  Ricerca  Trovato 2
+11  Inserimento  Riuscito
+4  Ricerca  Trovato 4
+5  Ricerca  Trovato 2
+20  Inserimento  Riuscito
+9  Inserimento  Riuscito
+9  Inserimento  Riuscito
+12  Inserimento  Riuscito
+7  Inserimento  Riuscito
+5  Ricerca  Trovato 3
+7  Cancellazione  Riuscita
+6  Ricerca  Trovato 3
+11  Inserimento  Riuscito
+8  Ricerca  Trovato 5
+12  Inserimento  Riuscito
+11  Inserimento  Riuscito
+14  Inserimento  Riuscito
+11  Ricerca  Trovato 4
+7  Cancellazione  Riuscita
+11  Ricerca  Trovato 1
+9  Cancellazione  Riuscita
+15  Inserimento  Riuscito
+13  Cancellazione  Riuscita
+7  Cancellazione  Riuscita
+16  Ricerca  Trovato 1
+7  Inserimento  Riuscito
+8  Cancellazione  Riuscita
+8  Cancellazione  Non Riuscita
+6  Cancellazione  Riuscita
+11  Cancellazione  Riuscita
+18  Cancellazione  Non Riuscita
+8  Ricerca  Trovato 11
+10  Ricerca  Non Trovato
+9  Cancellazione  Riuscita
+8  Cancellazione  Riuscita
+18  Cancellazione  Non Riuscita
+13  Inserimento  Riuscito
+10  Ricerca  Non Trovato
+13  Inserimento  Riuscito
+5  Ricerca  Non Trovato
+10  Ricerca  Trovato 1
+16  Inserimento  Riuscito
+9  Ricerca  Trovato 3
+18  Cancellazione  Non Riuscita
+15  Inserimento  Riuscito
+9  Cancellazione  Riuscita
+9  Cancellazione  Non Riuscita
+7  Ricerca  Trovato 1
+15  Inserimento  Riuscito
+10  Ricerca  Trovato 11
+6  Ricerca  Trovato 4
+21  Inserimento  Riuscito
+15  Ricerca  Trovato 3
+12  Inserimento  Riuscito
+16  Inserimento  Riuscito
+10  Cancellazione  Riuscita
+9  Inserimento  Riuscito
+11  Inserimento  Riuscito
+9  Inserimento  Riuscito
+8  Inserimento  Riuscito
+8  Inserimento  Riuscito
+9  Inserimento  Riuscito
+3  Inserimento  Riuscito
+11  Inserimento  Riuscito
+8  Ricerca  Trovato 6
+20  Ricerca  Non Trovato
+16  Ricerca  Trovato 1
+8  Ricerca  Trovato 3
+9  Cancellazione  Riuscita
+8  Ricerca  Trovato 2
+12  Inserimento  Riuscito
+16  Inserimento  Riuscito
+8  Cancellazione  Non Riuscita
+8  Ricerca  Trovato 6
+5  Ricerca  Trovato 1
+8  Inserimento  Riuscito
+14  Inserimento  Riuscito
+18  Cancellazione  Non Riuscita
+13  Inserimento  Riuscito
+10  Ricerca  Non Trovato
+24  Inserimento  Riuscito
+18  Inserimento  Riuscito
+19  Inserimento  Riuscito
+20  Inserimento  Riuscito
+13  Inserimento  Riuscito
+8  Cancellazione  Non Riuscita
+20  Inserimento  Riuscito
+15  Inserimento  Riuscito
+10  Ricerca  Trovato 12
+6  Ricerca  Trovato 4
+21  Inserimento  Riuscito
+15  Ricerca  Trovato 3
+12  Inserimento  Riuscito
+16  Inserimento  Riuscito
+8  Cancellazione  Non Riuscita
+11  Cancellazione  Riuscita
+11  Cancellazione  Riuscita
+11  Cancellazione  Riuscita
+11  Cancellazione  Riuscita
+11  Cancellazione  Riuscita
+11  Cancellazione  Riuscita
+11  Cancellazione  Riuscita
+11  Cancellazione  Riuscita
+11  Cancellazione  Riuscita
+10  Ricerca  Trovato 3
+15  Inserimento  Riuscito
+10  Ricerca  Trovato 3
+6  Ricerca  Trovato 4
+21  Inserimento  Riuscito
+15  Ricerca  Trovato 3
+12  Inserimento  Riuscito
+6  Ricerca  Trovato 2
+18  Cancellazione  Non Riuscita
+12  Inserimento  Riuscito
+9  Ricerca  Trovato 3
+12  Inserimento  Riuscito
+12  Inserimento  Riuscito
+12  Ricerca  Non Trovato
+5  Ricerca  Trovato 4
+19  Cancellazione  Riuscita
+20  Inserimento  Riuscito
+7  Ricerca  Trovato 1
+13  Inserimento  Riuscito

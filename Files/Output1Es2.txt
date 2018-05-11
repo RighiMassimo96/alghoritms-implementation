@@ -1,0 +1,16 @@
+Lista 1: 15
+Lista 2: 8
+Lista 3: 12
+Lista 4: 12
+Lista 5: 12
+Lista 6: 18
+Lista 7: 7
+Lista 8: 5
+Lista 9: 12
+Lista 10: 5
+Lista 11: 12
+Lista 12: 9
+Lista 13: 15
+Lista 14: 8
+Lista 15: 5
+Lista 16: 5
