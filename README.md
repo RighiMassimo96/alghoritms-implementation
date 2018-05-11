@@ -4,7 +4,7 @@ Algorithms implementation through Java
 I developed this project in the second year of university for the course "Algoritmi e Strutture Dati".
 The project is divided into 3 parts, each of which implements a different algorithm.
 
-##1 - BINARY SEARCH TREE (BST)
+## 1 - BINARY SEARCH TREE (BST)
 
 A BST has been implemented that manages a collection of equipment each characterized by an alphanumeric code.
 To each equipment is associated a list of places (warehouses, research laboratories, etc ...) in which the equipment is present. For each place the quantity of equipment of that type that is present must be specified. In the same place there may be more than one piece of equipment and the same type of equipment can be present in several places.
@@ -29,7 +29,7 @@ es.
 45 Ricerca Non Trovato
 
 
-##2 - HASH TABLE
+## 2 - HASH TABLE
 
 The behavior of the Hash function based on the multiplication method has been experimentally verified.
 A hash table has been implemented in which the collisions are managed by overflow lists that use a Hash function based on the multiplication method with parameters C = 0.15.
@@ -37,7 +37,7 @@ A hash table has been implemented in which the collisions are managed by overflo
 Subsequently the keys were inserted in the Hash table; at the end of the insertion the length of the overflow list was measured.
 As for part 1, the reading of the inputs and the writing of the outputs was done via file I/O.
 
-##3 - MIN HEAP
+## 3 - MIN HEAP
 
 An array-based tree structure has been implemented that implements a Min Heap.
 Once the insertion has been completed (again via file), the transformation of the tree thus constructed into an array (which obviously has to retain the properties of the heap) is implemented and subsequently printed in the Output1Es3.txt file (one element per line).
