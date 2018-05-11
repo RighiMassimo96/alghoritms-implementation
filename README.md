@@ -36,4 +36,6 @@ Subsequently the keys were inserted in the Hash table; at the end of the inserti
 As for part 1, the reading of the inputs and the writing of the outputs was done via file I/O.
 
 3 - MIN HEAP
-
+An array-based tree structure has been implemented that implements a Min Heap.
+Once the insertion has been completed (again via file), the transformation of the tree thus constructed into an array (which obviously has to retain the properties of the heap) is implemented and subsequently printed in the Output1Es3.txt file (one element per line).
+At this point, the array previously obtained is reordered and printed in the Output2Es3.txt file (one element per line).
